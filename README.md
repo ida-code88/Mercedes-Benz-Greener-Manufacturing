@@ -9,7 +9,7 @@ https://medium.com/swlh/greener-manufacturing-with-machine-learning-6ec77d0e7a91
 
 # Outline steps in this project are:
 1. Import all the required libraries (some libraries may be imported later)
-2. Load and prepare the data for analysist. This step include:
+2. Load and prepare the data for analysis. This step include:
 
     ~ Check for null and unique values for test and train sets
     
